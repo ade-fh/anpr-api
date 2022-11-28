@@ -71,4 +71,4 @@ typing_extensions==4.4.0
 urllib3==1.26.12
 wcwidth==0.2.5
 Werkzeug==2.2.2
-zipp==3.10.0
+zipp==3.11.0
